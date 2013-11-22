@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'foodie/cli'
+# searches for the cli class and the calls the start 
+# method
+# start method fires up our CLI class and will look 
+# for a task the matches the one we ask for
+Foodie::CLI.start
