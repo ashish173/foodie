@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Foodie::VERSION
   spec.authors       = ["ashish173"]
   spec.email         = ["aitashish173@gmail.com"]
-  spec.description   = %q{TODO: test gem}
-  spec.summary       = %q{TODO: just for the sake of testing}
+  spec.description   = %q{test gem}
+  spec.summary       = %q{just for the sake of testing}
   spec.homepage      = ""
   spec.license       = "MIT"
 
